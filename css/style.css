@@ -1,0 +1,156 @@
+
+body {
+    margin: 0;
+    background-color: #222222;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Header */
+
+.header {
+    width: 100%;
+    height: 120px;
+    box-sizing: border-box;
+    background: linear-gradient(45deg, #84fab0, #4facfe);
+    background-size: 159% 150%;
+    animation: gradient 10s ease infinite;
+}
+
+.heading-1 {
+    position: relative;
+    margin: auto;
+	padding: 16px;
+	font-size: 32px;
+	text-align: center;
+    height: 60px;
+    line-height: 60px;
+    color: #fff;
+}
+
+.heading-1::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 10px 6px 0 6px;
+	border-color: #fff rgba(0,0,0,0) rgba(0,0,0,0) rgba(0,0,0,0);
+}
+
+/* Main */
+
+.content {
+    width: 100%;
+    height: 100%;
+    padding: 16px 0 32px;
+    box-sizing: border-box;
+    background-color: #222222;
+}
+
+.content2 {
+    width: 100%;
+    height: 100%;
+    padding: 16px 0 32px;
+    box-sizing: border-box;
+    background-color: #272727;
+}
+
+.heading-2 {
+    font-size: 24px;
+    color: #fff;
+}
+
+.heading-3 {
+    font-size: 20px;
+    color: #fff;
+}
+
+.text {
+    margin: 16px 0 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ddd;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.tweak-image {
+    margin: 16px 0 0;
+    text-align: center;
+}
+.tweak-image img {
+    width: 60%;
+    height: auto;
+}
+
+.profile-image {
+    margin: 16px 0 0;
+    text-align: center;
+}
+
+.profile-image img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.heading-margin {
+    margin: 16px 0 16px;
+}
+
+/* Footer */
+
+.footer {
+    width: 100%;
+    height: auto;
+    margin-top: 32px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: #ddd;
+}
+
+/* Button */
+
+.button {
+    display: inline-block;
+    padding: 10px 30px;
+    text-align: center;
+    color: #fff;
+    margin: 16px 0 0;
+    border-radius: 20px;
+}
+
+.link {
+    color: #21d4fd;
+    text-decoration: underline;
+}
+
+.cydiaColor {
+    background-color: #a9704d;
+}
+
+.sileoColor {
+    background-color: #24d0b6;
+}
+
+.zebraColor {
+    background-color: #323232;
+}
+
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 50% 100%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
