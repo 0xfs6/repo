@@ -1,0 +1,136 @@
+Package: com.mtac.lynxtwo
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: FS6
+Installed-Size: 2916
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common
+Filename: ./debs/com.mtac.lynxtwo_v2.4.10_iphoneos-arm64.deb
+Size: 925454
+MD5sum: dd0dbcc133af9c771e93076886d4a3e4
+SHA256: fdb79d775c4faab9d3436363e3a5f1439ee8d470acef3ccc561c87565d5b7cf1
+Section: Tweaks
+Description: Ultimate iDevice Customization for iOS 14+
+Author: FS6
+Depiction: https://havoc.app/depiction/lynxtwo
+Icon: https://media.havoc.app/64a1d7f9351a82652447cb09
+Name: Lynx 2
+
+Package: com.mtac.lynxtwo
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: FS6
+Installed-Size: 2916
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common
+Filename: ./debs/com.mtac.lynxtwo_2.4.10_iphoneos-arm.deb
+Size: 925454
+MD5sum: dd0dbcc133af9c771e93076886d4a3e4
+SHA256: fdb79d775c4faab9d3436363e3a5f1439ee8d470acef3ccc561c87565d5b7cf1
+Section: Tweaks
+Description: Ultimate iDevice Customization for iOS 14+
+Author: FS6
+Depiction: https://havoc.app/depiction/lynxtwo
+Icon: https://media.havoc.app/64a1d7f9351a82652447cb09
+Name: Lynx 2
+
+Package: com.nicho1asdev.bigsurcenter
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: FS6
+Installed-Size: 1756
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.6), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.nicho1asdev.bigsurcenter_1.4.4_iphoneos-arm.deb
+Size: 751586
+MD5sum: 2f18c89b46b73f0fc71efcd7c2808bf1
+SHA256: 9839fec6214bb600d82d98203e04a38aee47c2d866ca530226e935152987dd02
+Section: Tweaks
+Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the control center in MacOS Big Sur
+Author: FS6
+Depiction: https://havoc.app/depiction/bigsurcenter
+Icon: https://media.havoc.app/62a780880e4e7bb50110e25b
+Name: BigSurCenter
+
+Package: com.nicho1asdev.bigsurcenter
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: FS6
+Installed-Size: 1756
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.6), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.nicho1asdev.bigsurcenter_1.4.4_iphoneos-arm64.deb
+Size: 751586
+MD5sum: 2f18c89b46b73f0fc71efcd7c2808bf1
+SHA256: 9839fec6214bb600d82d98203e04a38aee47c2d866ca530226e935152987dd02
+Section: Tweaks
+Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the control center in MacOS Big Sur
+Author: FS6
+Depiction: https://havoc.app/depiction/bigsurcenter
+Icon: https://media.havoc.app/62a780880e4e7bb50110e25b
+Name: BigSurCenter
+
+Package: com.bank5ia.iosx
+Version: 0.6.1
+Architecture: iphoneos-arm
+Maintainer: FS6
+Installed-Size: 1756
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Filename: ./debs/com.bank5ia.iosx_0.6.1.deb
+Size: 751586
+MD5sum: 8f52c0786b21d5b378be4c6acc62ddaa
+SHA256: 5d40d9d72a7fb948dc53c7d2c126cad04ec2d92555a349df653c4812db081d0b
+Section: Themes
+Description: iOS with a hint of MacOS
+Author: FS6
+Depiction: https://havoc.app/depiction/iosx
+Icon: https://media.havoc.app/629372b8284c9345b94ce507
+Name: iOSX
+
+Package: com.bank5ia.iosx
+Version: 0.6.1
+Architecture: iphoneos-arm64
+Maintainer: FS6
+Installed-Size: 1756
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Filename: ./debs/com.bank5ia.iosx_0.6.1.deb
+Size: 751586
+MD5sum: 8f52c0786b21d5b378be4c6acc62ddaa
+SHA256: 5d40d9d72a7fb948dc53c7d2c126cad04ec2d92555a349df653c4812db081d0b
+Section: Themes
+Description: iOS with a hint of MacOS
+Author: FS6
+Depiction: https://havoc.app/depiction/iosx
+Icon: https://media.havoc.app/629372b8284c9345b94ce507
+Name: iOSX
+
+Package: me.tomt000.stageduo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: FS6
+Installed-Size: 7340
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.tomt000.stageduo_1.0.1_iphoneos-arm.deb
+Size: 4137380
+MD5sum: 6da46d6fb70422cab51b846e430055b8
+SHA256: b1eddd97876efc797e6e8368b407a27bd190db2cca4f780eb01f8cdd063d21fd
+Section: Themes
+Description: Stage Manager Reimagined for iPhone
+Author: FS6
+Depiction: https://havoc.app/depiction/dynamicstage
+Icon: https://media.havoc.app/64db89749fb68ff811d16046
+Name: Dynamic Stage
+
+Package: me.tomt000.stageduo
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: FS6
+Installed-Size: 7340
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.tomt000.stageduo_1.0.1_iphoneos-arm64.deb
+Size: 4137380
+MD5sum: 6da46d6fb70422cab51b846e430055b8
+SHA256: b1eddd97876efc797e6e8368b407a27bd190db2cca4f780eb01f8cdd063d21fd
+Section: Themes
+Description: Stage Manager Reimagined for iPhone
+Author: FS6
+Depiction: https://havoc.app/depiction/dynamicstage
+Icon: https://media.havoc.app/64db89749fb68ff811d16046
+Name: Dynamic Stage
+
